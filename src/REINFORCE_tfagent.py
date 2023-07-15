@@ -1,6 +1,7 @@
 from __future__ import absolute_import, division, print_function
 
 import csv
+import multiprocessing
 
 import matplotlib.pyplot as plt
 
@@ -21,6 +22,13 @@ from tf_agents.trajectories import trajectory
 from tf_agents.utils import common
 
 tf.compat.v1.enable_v2_behavior()
+
+# 采用多核心进行计算
+# strategy = tf.distribute.MirroredStrategy()
+
+# tf内部决定对一些矩阵运算进行加速，多线程
+tf.config.threading.set_inter_op_parallelism_threads(8)
+tf.config.threading.set_intra_op_parallelism_threads(8)
 
 
 # Data Collection
@@ -99,6 +107,7 @@ def train_reinforce(
         train_env.observation_spec(),
         train_env.action_spec(),
         fc_layer_params=fc_layer_params)
+
 
     agent = reinforce_agent.ReinforceAgent(
         train_env.time_step_spec(),

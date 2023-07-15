@@ -1,5 +1,5 @@
 # default values
-root = '/home/tawfiq/PycharmProjects/RM_DeepRL'
+root = '/home/shaojie/PycharmProjects/RM_DeepRL'
 algo = 'reinforce'
 workload = 'jobs.csv'
 beta = 1.0
