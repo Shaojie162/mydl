@@ -1,0 +1,83 @@
+WARNING:tensorflow:There are non-GPU devices in `tf.distribute.Strategy`, not using nccl allreduce.
+INFO:tensorflow:Using MirroredStrategy with devices ('/job:localhost/replica:0/task:0/device:CPU:0',)
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Invalid Executor Placement, Episode Ended
+
+
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Invalid Executor Placement, Episode Ended
+
+
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Invalid Executor Placement, Episode Ended
+
+
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Invalid Executor Placement, Episode Ended
+
+
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Invalid Executor Placement, Episode Ended
+
+
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Invalid Executor Placement, Episode Ended
+
+
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Invalid Executor Placement, Episode Ended
+
+
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Invalid Executor Placement, Episode Ended
+
+
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Invalid Executor Placement, Episode Ended
+
+
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Action: 7
+INFO:root:CLOCK: 57: Invalid Executor Placement, Episode Ended
+
+
+INFO:root:CLOCK: 57: Action: 7
